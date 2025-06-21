@@ -1,7 +1,4 @@
-Thank you for sharing the text. I've analyzed the content and organized it into a **well-structured, easy-to-read document** with clear sections and sequential flow. Here's the refined version of your
----
-
-# 🧑‍💻 Cloud Engineer Training & Placement Program  
+# 🧑‍💻 Cloud Engineer/IT Training & Placement Program  
 
 ## 💼 Overview  
 
