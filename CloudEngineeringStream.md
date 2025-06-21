@@ -174,36 +174,36 @@ Additionally, non-technical skills like:
 
 ## 🎯 Our Mission
 
-We aim to ensure that **every associate becomes self-sufficient**, capable of handling real-world development tasks independently. Based on past experiences, most associates complete the program in **6 to 9 months**. However, smart learners can finish in as little as **3 to 6 months** with full dedication.
+We aim to ensure that **every associate becomes self-sufficient**, capable of handling real-world development tasks independently. Based on past experiences, most associates complete the program in **6 to 9 months**. However, smart learners can finish in as little as **3 to 6 months** with full dedication.  
 
-## Why one should pay huge amount of training.
-Over period of last 25 Years, I saw associates facing multiple challenges in getting job. With a predefined goal in place, predefined path in place, one energy is focused on one particular area and be focused. To achive a gaol, Consistency, Persistence, Predfined path, executing, evaluating the path at each step will bring success in life with consisten effort.
+## Why one should pay huge amount of training.  
+Over period of last 25 Years, I saw associates facing multiple challenges in getting job. With a predefined goal in place, predefined path in place, one energy is focused on one particular area and be focused. To achive a gaol, Consistency, Persistence, Predfined path, executing, evaluating the path at each step will bring success in life with consisten effort.  
 
 ---
 
-## 📌 Important Notes
+## 📌 Important Notes  
 
-- Once enrolled, associates are committed to:
-  - Completing the training
-  - Staying with the company for **12 months post-placement**
-  - Paying **$18,000 penalty** if they leave early
-- All training fees will be fully refunded after **36 months** in billable roles
+- Once enrolled, associates are committed to:  
+  - Completing the training  
+  - Staying with the company for **12 months post-placement**  
+  - Paying **$18,000 penalty** if they leave early  
+- All training fees will be fully refunded after **36 months** in billable roles  
 
 ---
 
 ## 📞 Contact
 
-For any queries, feel free to reach out:
+For any queries, feel free to reach out:  
 
 **Sri**  
 
-cloud.share360@gmail.com
-sri.cloudshare360@gmail.com
+cloud.share360@gmail.com  
+sri.cloudshare360@gmail.com  
 
-Training Company is Register in USA as Sri Consulting Services.
-This is a start up idea - my goal and vision is to help associate to get their dream job in career and have a consistant and smooth life growth oppertunities.
+Training Company is Register in USA as Sri Consulting Services.  
+This is a start up idea - my goal and vision is to help associate to get their dream job in career and have a consistant and smooth life growth oppertunities.  
 
 
 ---
 
-Let me know if you'd like this in **PDF format**, **Google Docs**, or **Word docx** for easy sharing!
+Let me know if you'd like this in **PDF format**, **Google Docs**, or **Word docx** for easy sharing!  
