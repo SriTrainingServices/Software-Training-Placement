@@ -1,12 +1,36 @@
-Thank you for sharing the text. I've analyzed the content and organized it into a **well-structured, easy-to-read document** with clear sections and sequential flow. Here's the refined version of your **NodeJS Back-End Developer Training Program**:
-
+Thank you for sharing the text. I've analyzed the content and organized it into a **well-structured, easy-to-read document** with clear sections and sequential flow. Here's the refined version of your
 ---
 
-# 🧑‍💻 Node.js Back-End Developer Training & Placement Program
+# 🧑‍💻 Cloud Engineer Training & Placement Program
 
 ## 💼 Overview
 
-This program is designed to train individuals in becoming **Back-End Node.js Developers**, equipping them with technical and process skills necessary to secure a job in the tech industry. The training duration ranges from **6 to 15 months**, depending on the candidate’s pace and commitment.
+This program is designed to train individuals in becoming **Back-End  Developers**, equipping them with technical and process skills necessary to secure a job in the tech industry. The training duration ranges from **6 to 18 months**, depending on the candidate’s pace and commitment. 
+* Associate will be continously trained till associates gets the job. No limit on the number of months. Here the goal is to make sure that associates is placed in the market, continously monitored for 3 years to make a consistent career path.
+
+  Career path- Here the goal is to get the associate trained in backend. Once he completes the backend,
+  they will be going through
+  -- front-end
+  -- unit testing
+  -- automation testing
+  -- devops
+  -- solutioning and architecture
+
+  Associate who goes through the curculam, will be able to execute any type of task that comes it path from moving a problem statement to solution statement, i.e., requirement analysis, design, detail design, coding, testing, automation, code deployment, pre and post production support - which will cover the entire life cycle of the SDLC.
+
+
+who is the course intended for
+ This couse is intended for associates who are 
+ Freshers - just completed graduation
+ Spouses - who have work authorization
+ Greencard holders - who are authorized to work in USA
+ Citizens - who are willing to start career as IT.
+
+This training is not timebound, the goal is to make sure the associate have succesfull long term career path in It industry.
+
+The associate are free to choose programming languages to Node, Python, Java, .Net, Go as programming path
+The associates need to be flexible to learn mutiple languages
+  
 
 Upon successful completion and placement, associates will be marked as **Back-End Node.js Developers** and placed in client roles on our payroll.
 
@@ -22,6 +46,7 @@ Upon successful completion and placement, associates will be marked as **Back-En
   - Payment plan: 600$ /month - Balance 1200$ will be deducted
   - Payment plan: $/3600 / month - assocate will receive monthly payment of 1800$ per month
   - Payment plan: $/5000 / month - assocate will receive monthly payment of 3200$ per month assocaite will receive every month
+- Associate who are unable to pay intial amount can have one to one discussion, can customize the plans accordinly.
 
 > ✅ **Refund Policy**: Entire training amount is refunded after working **36 months** in billable client roles.
 
@@ -88,7 +113,8 @@ Additionally, non-technical skills like:
 ## ❓ Frequently Asked Questions (FAQs)
 
 ### 1. Can I pay in installments?
-- Yes, $500/month for 6 months.
+- Instead of paying 3600$ one time, the associate can pay 1200.00$
+- Yes, remaining amount can be payed 600$ per month.
 - No refunds if you leave before completing 36 months in a billable role.
 
 ### 2. What if I can’t finish the course in 6 months?
@@ -103,6 +129,7 @@ Additionally, non-technical skills like:
 - Weekdays: 9 AM – 4 PM (6 hours/day)
 - Weekend: Online sessions for 6 hours/week
 - Additional practice time expected
+- Associates who are working, I have different options.
 
 ### 5. Will I get mentorship or doubt-clearing sessions?
 - Daily 30-minute check-ins
@@ -145,6 +172,9 @@ Additionally, non-technical skills like:
 
 We aim to ensure that **every associate becomes self-sufficient**, capable of handling real-world development tasks independently. Based on past experiences, most associates complete the program in **6 to 9 months**. However, smart learners can finish in as little as **3 to 6 months** with full dedication.
 
+## Why one should pay huge amount of training.
+Over period of last 25 Years, I saw associates facing multiple challenges in getting job. With a predefined goal in place, predefined path in place, one energy is focused on one particular area and be focused. To achive a gaol, Consistency, Persistence, Predfined path, executing, evaluating the path at each step will bring success in life with consisten effort.
+
 ---
 
 ## 📌 Important Notes
@@ -165,6 +195,10 @@ For any queries, feel free to reach out:
 
 cloud.share360@gmail.com
 sri.cloudshare360@gmail.com
+
+Training Company is Register in USA as Sri Consulting Services.
+This is a start up idea - my goal and vision is to help associate to get their dream job in career and have a consistant and smooth life growth oppertunities.
+
 
 ---
 
