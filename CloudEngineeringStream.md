@@ -15,43 +15,51 @@ Upon successful completion and placement, associates will be marked as **Back-En
 ## 💰 Financial Details
 
 ### 🔹 Program Cost
-- Total cost: **$3,000**
+- Intial cost: **$3,600**
 - Paid upfront (non-refundable)
-- Payment plan: $500/month for 6 months
+- Payment Options - 1800$ per month
+  - Payment plan: 300$ /month - non refundable and monthly 1800$ will be deducted based on the number of months the training is deducted from salary
+  - Payment plan: 600$ /month - Balance 1200$ will be deducted
+  - Payment plan: $/3600 / month - assocate will receive monthly payment of 1800$ per month
+  - Payment plan: $/5000 / month - assocate will receive monthly payment of 3200$ per month assocaite will receive every month
 
 > ✅ **Refund Policy**: Entire training amount is refunded after working **36 months** in billable client roles.
 
 ### 🔹 H1B Sponsorship
 - Company sponsors H1B visa at a cost of **$5,000**
-- Fully refundable after **3 years** on H1B (deducted monthly from salary)
+- Free Green Card Processing
+- Free EAD Processing for the spouse
+- GreenCard will be initiated after 18 months of work or at the earliest which ever is applicable to individual associates
+
 
 ### 🔹 Monthly Extensions (if needed)
-- If the associate needs more than 6 months:
-  - $1,500 per 3-month extension
-  - Refundable after completing 36 months in billable roles
-
----
+- Customized Payments plans for each individual where intial amount is payed and other amount is deducted once associates starts the work
 
 ## 📅 Duration & Commitment
 
 ### ⏱️ Training Duration
 - Minimum: **6 months**
 - Average: **9 months**
-- Maximum: Up to **15 months** (based on learning speed)
+- Maximum: Up to **15 months** (based on learning speed) or till one gets job
 
 ### 🤝 Post-Placement Commitment
-- Associates must stay with the company for **at least 12 months**
+- Associates must stay with the company for **at least 36 months**
 - Breaking this rule incurs a penalty of **$18,000**
 
 ### 💵 Salary Breakdown (Post Placement)
 - For first 12 months:
-  - Associate receives **40–50%**
-  - Company retains **50–60%**
+- Associates will receive 3K USD to 5k based on the client received.
 - After 12 months: Salary revision based on performance
 
----
 
 ## 📚 Curriculum
+      Cloud Engineer Role where the associate will be trained on
+       * Cloud Development
+       * Cloud DevOps Engineer
+       * Cloud Automation
+       * Cloud Integration
+       * Cloud Architect
+       * Cloud Security
 
 The following technologies and tools are covered during the training:
 
