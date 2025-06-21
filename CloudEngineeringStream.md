@@ -62,7 +62,7 @@ Upon successful completion and placement, associates will be marked as **Back-En
 ### ⏱️ Training Duration
 - Minimum: **6 months**  
 - Average: **9 months**  
-- Maximum: Up to **15 months** (based on learning speed) or till one gets job  
+- Maximum: Up to **18 months** (based on learning speed) or till one gets job  
 
 ### 🤝 Post-Placement Commitment  
 - Associates must stay with the company for **at least 36 months**  
